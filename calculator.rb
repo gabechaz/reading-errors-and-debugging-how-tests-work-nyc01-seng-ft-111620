@@ -2,3 +2,6 @@
 first_number = 5
 
 second_number = 37
+
+sum = first_number + second_number
+
